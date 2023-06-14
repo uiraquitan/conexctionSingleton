@@ -1,0 +1,13 @@
+{
+    "name": "conexction/singleton",
+    "version": "1.0.0",
+    "description": "Singleton",
+    "author": "Uiraquitan",
+    "license": "MIT",
+    "main": "index.php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
